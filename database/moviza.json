@@ -1,0 +1,1443 @@
+[
+    {
+        "title": "Solo Leveling",
+        "type": "Series",
+        "cinematography": "Anime",
+        "banner-img": "database/images/solo-leveling.png",
+        "tags": "Solo Leveling",
+        "genre": [
+            "Anime",
+            "Supernatural Fantasy",
+            "Survival",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Fantasy"
+        ],
+        "imdb_id": "tt21209876",
+        "detail": "Follows the adventures Sung Jinwoo in a world that is constantly threatened by monsters and the evil forces. In his battles Sung transforms himself from weakest hunter of all mankind to one of the strongest hunters in existence.",
+        "seasons": [
+            {
+                "season": 1,
+                "episodes": [
+                    {
+                        "episode": 1,
+                        "source": [
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/ntDAwVB3-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/ntDAwVB3-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/ntDAwVB3-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/ntDAwVB3-quvfCAz1.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 2,
+                        "source": [
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/rXTi2k36-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/rXTi2k36-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/rXTi2k36-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/rXTi2k36-quvfCAz1.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 3,
+                        "source": [
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/AudSfNwn-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/AudSfNwn-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/AudSfNwn-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/AudSfNwn-quvfCAz1.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 4,
+                        "source": [
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/7P0nxN7j-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/7P0nxN7j-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/7P0nxN7j-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/7P0nxN7j-quvfCAz1.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 5,
+                        "source": [
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/N2Ar8Q2S-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/N2Ar8Q2S-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/N2Ar8Q2S-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/N2Ar8Q2S-quvfCAz1.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 6,
+                        "source": [
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/7ps7VP4M-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/7ps7VP4M-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/7ps7VP4M-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/7ps7VP4M-quvfCAz1.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 7,
+                        "source": [
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/hP32XdR8-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/hP32XdR8-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/hP32XdR8-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/hP32XdR8-quvfCAz1.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 8,
+                        "source": [
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/00YG3xhG-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/00YG3xhG-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/00YG3xhG-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/00YG3xhG-quvfCAz1.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 9,
+                        "source": [
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/nNqCb8MW-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/nNqCb8MW-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/nNqCb8MW-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/nNqCb8MW-quvfCAz1.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 10,
+                        "source": [
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/j3nMTS2m-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/j3nMTS2m-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/j3nMTS2m-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/j3nMTS2m-quvfCAz1.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 11,
+                        "source": [
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/aNJtLxap-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/aNJtLxap-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/aNJtLxap-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/aNJtLxap-quvfCAz1.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 12,
+                        "source": [
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/Q5TRc3RH-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/Q5TRc3RH-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/Q5TRc3RH-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/Q5TRc3RH-quvfCAz1.mp4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Courage the Cowardly Dog",
+        "type": "Series",
+        "cinematography": "Animation",
+        "banner-img": "database/images/courage-the-cowardly-dog.jpg",
+        "tags": "Courage the Cowardly Dog",
+        "genre": [
+            "Animal Adventure",
+            "Farce",
+            "Hand-Drawn Animation",
+            "Supernatural Horror",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy",
+            "Horror"
+        ],
+        "imdb_id": "tt0220880",
+        "detail": "The offbeat adventures of Courage, a cowardly dog who must overcome his own fears to heroically defend his unknowing farmer owners from all kinds of dangers, paranormal events and menaces that appear around their land.",
+        "seasons": [
+            {
+                "season": 1,
+                "episodes": [
+                    {
+                        "episode": 1,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/HjxC2eBK-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/HjxC2eBK-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/HjxC2eBK-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/HjxC2eBK-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/HjxC2eBK-IK9bO3GV.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 2,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/ZIvFZ83o-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/ZIvFZ83o-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/ZIvFZ83o-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/ZIvFZ83o-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/ZIvFZ83o-IK9bO3GV.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 3,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/VkP7pETc-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/VkP7pETc-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/VkP7pETc-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/VkP7pETc-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/VkP7pETc-IK9bO3GV.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 4,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/nhkBQ3H3-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/nhkBQ3H3-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/nhkBQ3H3-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/nhkBQ3H3-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/nhkBQ3H3-IK9bO3GV.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 5,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/8wVSRk8C-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/8wVSRk8C-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/8wVSRk8C-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/8wVSRk8C-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/8wVSRk8C-IK9bO3GV.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 6,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/sWvPpJ0D-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/sWvPpJ0D-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/sWvPpJ0D-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/sWvPpJ0D-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/sWvPpJ0D-IK9bO3GV.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 7,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/twD61lql-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/twD61lql-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/twD61lql-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/twD61lql-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/twD61lql-IK9bO3GV.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 8,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/qRENAoKD-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/qRENAoKD-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/qRENAoKD-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/qRENAoKD-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/qRENAoKD-IK9bO3GV.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 9,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/3uSJcTbc-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/3uSJcTbc-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/3uSJcTbc-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/3uSJcTbc-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/3uSJcTbc-IK9bO3GV.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 10,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/9hXYV8EL-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/9hXYV8EL-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/9hXYV8EL-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/9hXYV8EL-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/9hXYV8EL-IK9bO3GV.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 11,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/Id1LNuGD-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/Id1LNuGD-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/Id1LNuGD-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/Id1LNuGD-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/Id1LNuGD-IK9bO3GV.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 12,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/UmPV1tBE-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/UmPV1tBE-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/UmPV1tBE-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/UmPV1tBE-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/UmPV1tBE-IK9bO3GV.mp4"
+                            }
+                        ]
+                    },
+                    {
+                        "episode": 13,
+                        "source": [
+                            {
+                                "quality": "1080",
+                                "src": "https://content.jwplatform.com/videos/MLSNJLKO-lJbvstnT.mp4"
+                            },
+                            {
+                                "quality": "720",
+                                "src": "https://content.jwplatform.com/videos/MLSNJLKO-ms7wzrlK.mp4"
+                            },
+                            {
+                                "quality": "480",
+                                "src": "https://content.jwplatform.com/videos/MLSNJLKO-FzuGvFOn.mp4"
+                            },
+                            {
+                                "quality": "360",
+                                "src": "https://content.jwplatform.com/videos/MLSNJLKO-quvfCAz1.mp4"
+                            },
+                            {
+                                "quality": "240",
+                                "src": "https://content.jwplatform.com/videos/MLSNJLKO-IK9bO3GV.mp4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Stand by Me Doraemon",
+        "type": "Movie",
+        "cinematography": "Animation",
+        "banner-img": "database/images/stand-by-me-doraemon-1920x1080px.jpg",
+        "tags": "Doraemon",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "imdb_id": "tt3331846",
+        "detail": "What will happen to Nobita's life after Doraemon leaves?",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/rliaV4KA-HvWTqzhw.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/rliaV4KA-QqUNYP4Z.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/rliaV4KA-mUWWVXnf.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/rliaV4KA-8Y5R0gu0.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Dragon Hunters",
+        "type": "Movie",
+        "cinematography": "Animation",
+        "banner-img": "database/images/dragon-hunters-1920x1080px.png",
+        "tags": "Dragon Hunters",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "imdb_id": "tt0944834",
+        "detail": "A fantastic tale telling the adventures of two dragon hunters!",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/i16sjo47-HvWTqzhw.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/i16sjo47-QqUNYP4Z.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/i16sjo47-mUWWVXnf.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/i16sjo47-8Y5R0gu0.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Sonic the Hedgehog",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/sonic-the-hedgehog-1920x1080px.png",
+        "tags": "Sonic the Hedgehog",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "imdb_id": "tt3794354",
+        "detail": "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/e7TwcRC4-HvWTqzhw.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/e7TwcRC4-QqUNYP4Z.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/e7TwcRC4-mUWWVXnf.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/e7TwcRC4-8Y5R0gu0.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "A Quiet Place Part II",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/a-quiet-place-2-1920x1080px.jpg",
+        "tags": "A Quiet Place",
+        "genre": [
+            "Drama",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "imdb_id": "tt8332922",
+        "detail": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize the creatures that hunt by sound are not the only threats lurking beyond the sand path.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/OtuA64hi-S9CCM033.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/OtuA64hi-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/OtuA64hi-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/OtuA64hi-sTgeeq2K.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "A Quiet Place",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/a-quiet-place-1920x1080px.jpg",
+        "tags": "A Quiet Place",
+        "genre": [
+            "Drama",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "imdb_id": "tt6644200",
+        "detail": "A family struggles for survival in a world invaded by alien creatures with ultra-sensitive hearing.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/BZZAfiO6-S9CCM033.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/BZZAfiO6-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/BZZAfiO6-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/BZZAfiO6-sTgeeq2K.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Malignant",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/malignant-1920x1080px.jpg",
+        "tags": "Malignant",
+        "genre": [
+            "Crime",
+            "Horror",
+            "Mystery"
+        ],
+        "imdb_id": "tt3811906",
+        "detail": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/dBRikxXS-S9CCM033.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/dBRikxXS-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/dBRikxXS-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/dBRikxXS-sTgeeq2K.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Don't Breathe 2",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/dont-breathe-1920x1080px.jpg",
+        "tags": "Don't Breathe 2",
+        "genre": [
+            "Action",
+            "Crime",
+            "Horror"
+        ],
+        "imdb_id": "tt6246322",
+        "detail": "The sequel is set in the years following the initial deadly home invasion, where Norman Nordstrom lives in quiet solace until his past sins catch up to him.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/0nrWsjuR-S9CCM033.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/0nrWsjuR-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/0nrWsjuR-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/0nrWsjuR-sTgeeq2K.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Red Notice",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/red-notice-1920x1080px.jpeg",
+        "tags": "Red Notice",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Thriller"
+        ],
+        "imdb_id": "tt7991608",
+        "detail": "An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues.",
+        "source": [
+            {
+                "quality": "1080",
+                "src": "https://content.jwplatform.com/videos/7dW7DeH9-S9CCM033.mp4"
+            },
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/7dW7DeH9-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/7dW7DeH9-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/7dW7DeH9-sTgeeq2K.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/7dW7DeH9-ig50yr9z.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Jungle Cruise",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/jungle-cruise-1920x1080px.jpg",
+        "tags": "Jungle Cruise",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "imdb_id": "tt0870154",
+        "detail": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/H6h7GsDz-S9CCM033.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/H6h7GsDz-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/H6h7GsDz-sTgeeq2K.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/H6h7GsDz-ig50yr9z.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/shang-chi-1920x1080px.jpg",
+        "tags": "Shang-Chi",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "imdb_id": "tt9376612",
+        "detail": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/t2Djcj6D-S9CCM033.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/t2Djcj6D-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/t2Djcj6D-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/t2Djcj6D-sTgeeq2K.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Free Guy",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/free-guy-1920x1080px.jpg",
+        "tags": "Free Guy",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "imdb_id": "tt6264654",
+        "detail": "When Guy, a bank teller, learns that he is a non-player character in a bloodthirsty, open-world video game, he goes on to become the hero of the story and takes the responsibility of saving the world.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/0QVAYtDg-S9CCM033.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/0QVAYtDg-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/0QVAYtDg-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/0QVAYtDg-sTgeeq2K.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "The Suicide Squad",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/suicide-squad-1920x1080px.jpg",
+        "tags": "Suicide Squad",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "imdb_id": "tt1386697",
+        "detail": "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/ysUaHxRA-S9CCM033.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/ysUaHxRA-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/ysUaHxRA-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/ysUaHxRA-sTgeeq2K.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Aladdin",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/aladdin-1920x1080px.jpg",
+        "tags": "Aladdin",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "imdb_id": "tt6139732",
+        "detail": "Aladdin, a kind thief, woos Jasmine, the princess of Agrabah, with the help of Genie. When Jafar, the grand vizier, tries to usurp the king, Jasmine, Aladdin and Genie must stop him from succeeding.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/YsoA5zIz-S9CCM033.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/YsoA5zIz-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/YsoA5zIz-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/YsoA5zIz-sTgeeq2K.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Godzilla vs Kong",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/godzilla-vs-kong-1920x1080px.jpeg",
+        "tags": "Godzilla x Kong",
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "imdb_id": "tt5034838",
+        "detail": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against each other--the fearsome Godzilla and the mighty Kong--with humanity caught in the balance.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/ote8CLia-S9CCM033.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/ote8CLia-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/ote8CLia-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/ote8CLia-sTgeeq2K.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "The Angry Birds Movie",
+        "type": "Movie",
+        "cinematography": "Animation",
+        "banner-img": "database/images/angry-birds-1-1920x1080px.jpg",
+        "tags": "Angry Birds",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "imdb_id": "tt1985949",
+        "detail": "When an island populated by happy, flightless birds is visited by mysterious green pigs, it's up to three unlikely outcasts to figure out what the pigs are up to.",
+        "source": [
+            {
+                "quality": "1080",
+                "src": "https://content.jwplatform.com/videos/qh2Lk4gz-S9CCM033.mp4"
+            },
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/qh2Lk4gz-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/qh2Lk4gz-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/qh2Lk4gz-sTgeeq2K.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/qh2Lk4gz-ig50yr9z.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "The Angry Birds Movie 2",
+        "type": "Movie",
+        "cinematography": "Animation",
+        "banner-img": "database/images/angry-birds-2-1920x1080px.jpg",
+        "tags": "Angry Birds",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "imdb_id": "tt6095472",
+        "detail": "The flightless birds and scheming green pigs take their feud to the next level.",
+        "source": [
+            {
+                "quality": "1080",
+                "src": "https://content.jwplatform.com/videos/28AJzhn9-S9CCM033.mp4"
+            },
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/28AJzhn9-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/28AJzhn9-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/28AJzhn9-sTgeeq2K.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/28AJzhn9-ig50yr9z.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/harry-potter-1-1920x1080px.jpg",
+        "tags": "Harry Potter Series",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "imdb_id": "tt0241527",
+        "detail": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+        "source": [
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/J7uaJXiF-SrKEkMyi.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/J7uaJXiF-KB9JH8Fj.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/J7uaJXiF-RY09QTos.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/harry-potter-2-1920x1080px.jpg",
+        "tags": "Harry Potter Series",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "imdb_id": "tt0295297",
+        "detail": "Harry Potter lives his second year at Hogwarts with Ron and Hermione when a message on the wall announces that the legendary Chamber of Secrets has been opened. The trio soon realize that, to save the school, it will take a lot of courage.",
+        "source": [
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/rX29AXOA-KB9JH8Fj.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/rX29AXOA-RY09QTos.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/rX29AXOA-1TymkGQ0.mp4"
+            }
+        ],
+        "youtube-trailer": "nE11U5iBnH0"
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/harry-potter-3-1920x1080px.jpg",
+        "tags": "Harry Potter Series",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "imdb_id": "tt0304141",
+        "detail": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
+        "source": [
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/7xgrZSyT-SrKEkMyi.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/7xgrZSyT-KB9JH8Fj.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/7xgrZSyT-RY09QTos.mp4"
+            }
+        ],
+        "youtube-trailer": "lAxgztbYDbs"
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/harry-potter-4-1920x1080px.jpg",
+        "tags": "Harry Potter Series",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "imdb_id": "tt0330373",
+        "detail": "Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+        "source": [
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/XNvbx3ea-SrKEkMyi.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/XNvbx3ea-KB9JH8Fj.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/XNvbx3ea-RY09QTos.mp4"
+            }
+        ],
+        "youtube-trailer": "3EGojp4Hh6I"
+    },
+    {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/harry-potter-5-1920x1080px.jpg",
+        "tags": "Harry Potter Series",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "imdb_id": "tt0373889",
+        "detail": "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
+        "source": [
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/EYl7ARkh-SrKEkMyi.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/EYl7ARkh-KB9JH8Fj.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/EYl7ARkh-RY09QTos.mp4"
+            }
+        ],
+        "youtube-trailer": "y6ZW7KXaXYk"
+    },
+    {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/harry-potter-6-1920x1080px.jpg",
+        "tags": "Harry Potter Series",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "imdb_id": "tt0417741",
+        "detail": "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as 'the property of the Half-Blood Prince' and begins to learn more about Lord Voldemort's dark past.",
+        "source": [
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/XttxGYoB-KB9JH8Fj.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/XttxGYoB-RY09QTos.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/XttxGYoB-1TymkGQ0.mp4"
+            }
+        ],
+        "youtube-trailer": "y6ZW7KXaXYk"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 1",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/harry-potter-7-1920x1080px.jpg",
+        "tags": "Harry Potter Series",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "imdb_id": "tt0926084",
+        "detail": "As Harry, Ron and Hermione race against time and evil to destroy the Horcruxes, they uncover the existence of the three most powerful objects in the wizarding world: the Deathly Hallows.",
+        "source": [
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/lqHFz51K-KB9JH8Fj.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/lqHFz51K-RY09QTos.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/lqHFz51K-1TymkGQ0.mp4"
+            }
+        ],
+        "youtube-trailer": "MxqsmsA8y5k"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/harry-potter-8-1920x1080px.jpg",
+        "tags": "Harry Potter Series",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "imdb_id": "tt1201607",
+        "detail": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+        "source": [
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/VfogRRkn-KB9JH8Fj.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/VfogRRkn-RY09QTos.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/VfogRRkn-1TymkGQ0.mp4"
+            }
+        ],
+        "youtube-trailer": "mObK5XD8udk"
+    },
+    {
+        "title": "Tom & Jerry",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "database/images/tom-and-jerry-1920x1080px.jpg",
+        "tags": "Tom and Jerry",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "imdb_id": "tt1361336",
+        "detail": "A chaotic battle ensues between Jerry Mouse, who has taken refuge in the Royal Gate Hotel, and Tom Cat, who is hired to drive him away before the day of a big wedding arrives.",
+        "source": [
+            {
+                "quality": "1080",
+                "src": "https://content.jwplatform.com/videos/5GmHyJhm-S9CCM033.mp4"
+            },
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/5GmHyJhm-AtZLZ6pc.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/5GmHyJhm-FLXHpnLo.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/5GmHyJhm-sTgeeq2K.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/5GmHyJhm-ig50yr9z.mp4"
+            }
+        ],
+        "youtube-trailer": "Gai9XObvAog"
+    }
+]
