@@ -1,5 +1,40 @@
 [
     {
+        "title": "Black Panther: Wakanda Forever",
+        "type": "Movie",
+        "cinematography": "Animation",
+        "banner-img": "https://moviza-app.netlify.app/database/images/black-panther-2-1920x1080px.jpg",
+        "tags": "Black Panther",
+        "genre": [
+            "SuperHero",
+            "Urban Adventure",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "imdb_id": "tt9114286",
+        "detail": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/LPiuwOYB-lJbvstnT.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/LPiuwOYB-ms7wzrlK.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/LPiuwOYB-FzuGvFOn.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/LPiuwOYB-quvfCAz1.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
         "title": "Spider-Man",
         "type": "Movie",
         "cinematography": "Animation",
