@@ -2,7 +2,7 @@
     {
         "title": "Black Panther: Wakanda Forever",
         "type": "Movie",
-        "cinematography": "Animation",
+        "cinematography": "Live-Action",
         "banner-img": "https://nwmtamilplay.github.io/moviza/database/images/black-panther-2-1920x1080px.jpg",
         "tags": "Black Panther",
         "genre": [
@@ -37,7 +37,7 @@
     {
         "title": "Spider-Man",
         "type": "Movie",
-        "cinematography": "Animation",
+        "cinematography": "Live-Action",
         "banner-img": "https://nwmtamilplay.github.io/moviza/database/images/spider-man-1920x1080px.jpg",
         "tags": "Spider-Man",
         "genre": [
