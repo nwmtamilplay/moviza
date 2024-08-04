@@ -1,5 +1,41 @@
 [
         {
+    "Title": "Bad Boys: Ride or Die",
+    "Year": "2024",
+    "Rated": "R",
+    "Released": "07 Jun 2024",
+    "Runtime": "115 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Adil El Arbi, Bilall Fallah",
+    "Writer": "Chris Bremner, Will Beall, George Gallo",
+    "Actors": "Will Smith, Martin Lawrence, Vanessa Hudgens",
+    "Plot": "This Summer, the world's favorite Bad Boys are back with their iconic mix of edge-of-your seat action and outrageous comedy but this time with a twist: Miami's finest are now on the run.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "64%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.0",
+    "imdbVotes": "32,915",
+    "imdbID": "tt4919268",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$189,331,546",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},
+        {
     "Title": "Black Panther: Wakanda Forever",
     "Year": "2022",
     "Rated": "PG-13",
