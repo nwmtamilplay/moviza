@@ -1,5 +1,40 @@
 [
     {
+        "title": "Bad Boys: Ride or Die",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "https://nwmtamilplay.github.io/moviza/database/images/bad-boys-1920x1080px.jpeg",
+        "tags": "Bad Boys",
+        "genre": [
+            "SuperHero",
+            "Urban Adventure",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "imdb_id": "tt4919268",
+        "detail": "When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+        "source": [
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/e3Zy3n4y-lJbvstnT.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/e3Zy3n4y-ms7wzrlK.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/e3Zy3n4y-FzuGvFOn.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/e3Zy3n4y-quvfCAz1.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
         "title": "Spider-Man",
         "type": "Movie",
         "cinematography": "Live-Action",
