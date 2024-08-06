@@ -1,1 +1,1 @@
-<?php echo "Php WEBSITE";
+<?php echo "Welcome to Moviza";
