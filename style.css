@@ -1,0 +1,13 @@
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: hsl(192, 23%, 91%);
+}
+
+.container {
+    height: 100vh;
+}
+
+.full-radius {
+    border-radius: 100vw;
+}
