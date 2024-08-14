@@ -1,5 +1,274 @@
 [
-     {
+    {
+        "title": "Spider-Man",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "https://nwmtamilplay.github.io/moviza/database/images/spider-man-1920x1080px.jpg",
+        "tags": "Spider-Man",
+        "genre": [
+            "SuperHero",
+            "Urban Adventure",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "imdb_id": "tt0145487",
+        "detail": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+        "source": [
+            {
+                "quality": "1080",
+                "src": "https://content.jwplatform.com/videos/tIJTsUxt-xB8DtWC7.mp4"
+            },
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/tIJTsUxt-lJbvstnT.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/tIJTsUxt-ms7wzrlK.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/tIJTsUxt-FzuGvFOn.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/tIJTsUxt-quvfCAz1.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Spider-Man 2",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "https://nwmtamilplay.github.io/moviza/database/images/spider-man-2-1920x1080px.jpg",
+        "tags": "Spider-Man",
+        "genre": [
+            "SuperHero",
+            "Urban Adventure",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "imdb_id": "tt0316654",
+        "detail": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+        "source": [
+            {
+                "quality": "1080",
+                "src": "https://content.jwplatform.com/videos/tSGaRGZT-xB8DtWC7.mp4"
+            },
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/tSGaRGZT-lJbvstnT.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/tSGaRGZT-ms7wzrlK.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/tSGaRGZT-FzuGvFOn.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/tSGaRGZT-quvfCAz1.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Spider-Man 3",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "https://nwmtamilplay.github.io/moviza/database/images/spider-man-3-1920x1080px.jpg",
+        "tags": "Spider-Man",
+        "genre": [
+            "SuperHero",
+            "Urban Adventure",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "imdb_id": "tt0413300",
+        "detail": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+        "source": [
+            {
+                "quality": "1080",
+                "src": "https://content.jwplatform.com/videos/ofWeaAL8-xB8DtWC7.mp4"
+            },
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/ofWeaAL8-lJbvstnT.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/ofWeaAL8-ms7wzrlK.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/ofWeaAL8-FzuGvFOn.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/ofWeaAL8-quvfCAz1.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "The Amazing Spider-Man",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "https://nwmtamilplay.github.io/moviza/database/images/the-amazing-spider-man--1920x1080px.jpg",
+        "tags": "Spider-Man",
+        "genre": [
+            "SuperHero",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "imdb_id": "tt0948470",
+        "detail": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+        "source": [
+            {
+                "quality": "1080",
+                "src": "https://content.jwplatform.com/videos/ui19XEio-xB8DtWC7.mp4"
+            },
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/ui19XEio-lJbvstnT.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/ui19XEio-ms7wzrlK.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/ui19XEio-FzuGvFOn.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/ui19XEio-quvfCAz1.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "The Amazing Spider-Man 2",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "https://nwmtamilplay.github.io/moviza/database/images/the-amazing-spider-man-2-1920x1080px.jpg",
+        "tags": "Spider-Man",
+        "genre": [
+            "SuperHero",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "imdb_id": "tt1872181",
+        "detail": "When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.",
+        "source": [
+            {
+                "quality": "1080",
+                "src": "https://content.jwplatform.com/videos/OssZLzQb-xB8DtWC7.mp4"
+            },
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/OssZLzQb-lJbvstnT.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/OssZLzQb-ms7wzrlK.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/OssZLzQb-FzuGvFOn.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/OssZLzQb-quvfCAz1.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Spider-Man: Homecoming",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "https://nwmtamilplay.github.io/moviza/database/images/spider-man-homecoming-1920x1080px.jpg",
+        "tags": "Spider-Man",
+        "genre": [
+            "SuperHero",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "imdb_id": "tt2250912",
+        "detail": "Peter Parker tries to stop Adrian 'The Vulture' Toomes from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student.",
+        "source": [
+            {
+                "quality": "1080",
+                "src": "https://content.jwplatform.com/videos/4B7k4qJ5-xB8DtWC7.mp4"
+            },
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/4B7k4qJ5-lJbvstnT.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/4B7k4qJ5-ms7wzrlK.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/4B7k4qJ5-FzuGvFOn.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/4B7k4qJ5-quvfCAz1.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
+        "title": "Spider-Man: Far from Home",
+        "type": "Movie",
+        "cinematography": "Live-Action",
+        "banner-img": "https://nwmtamilplay.github.io/moviza/database/images/spider-man-far-from-home-1920x1080px.jpg",
+        "tags": "Spider-Man",
+        "genre": [
+            "SuperHero",
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "imdb_id": "tt6320628",
+        "detail": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+        "source": [
+            {
+                "quality": "1080",
+                "src": "https://content.jwplatform.com/videos/UE8Rm6px-xB8DtWC7.mp4"
+            },
+            {
+                "quality": "720",
+                "src": "https://content.jwplatform.com/videos/UE8Rm6px-lJbvstnT.mp4"
+            },
+            {
+                "quality": "480",
+                "src": "https://content.jwplatform.com/videos/UE8Rm6px-ms7wzrlK.mp4"
+            },
+            {
+                "quality": "360",
+                "src": "https://content.jwplatform.com/videos/UE8Rm6px-FzuGvFOn.mp4"
+            },
+            {
+                "quality": "240",
+                "src": "https://content.jwplatform.com/videos/UE8Rm6px-quvfCAz1.mp4"
+            }
+        ],
+        "youtube-trailer": "VyHV0BRtdxo"
+    },
+    {
         "title": "Kingdom of the Planet of the Apes",
         "type": "Movie",
         "cinematography": "Live-Action",
@@ -63,45 +332,6 @@
             {
                 "quality": "240",
                 "src": "https://content.jwplatform.com/videos/e3Zy3n4y-quvfCAz1.mp4"
-            }
-        ],
-        "youtube-trailer": "VyHV0BRtdxo"
-    },
-    {
-        "title": "Spider-Man",
-        "type": "Movie",
-        "cinematography": "Live-Action",
-        "banner-img": "https://nwmtamilplay.github.io/moviza/database/images/spider-man-1920x1080px.jpg",
-        "tags": "Spider-Man",
-        "genre": [
-            "SuperHero",
-            "Urban Adventure",
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "imdb_id": "tt0145487",
-        "detail": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
-        "source": [
-            {
-                "quality": "1080",
-                "src": "https://content.jwplatform.com/videos/tIJTsUxt-xB8DtWC7.mp4"
-            },
-            {
-                "quality": "720",
-                "src": "https://content.jwplatform.com/videos/tIJTsUxt-lJbvstnT.mp4"
-            },
-            {
-                "quality": "480",
-                "src": "https://content.jwplatform.com/videos/tIJTsUxt-ms7wzrlK.mp4"
-            },
-            {
-                "quality": "360",
-                "src": "https://content.jwplatform.com/videos/tIJTsUxt-FzuGvFOn.mp4"
-            },
-            {
-                "quality": "240",
-                "src": "https://content.jwplatform.com/videos/tIJTsUxt-quvfCAz1.mp4"
             }
         ],
         "youtube-trailer": "VyHV0BRtdxo"

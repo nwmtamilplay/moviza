@@ -1,117 +1,5 @@
 [
-            {
-        "Title": "Kingdom of the Planet of the Apes",
-        "Year": "2024",
-        "Rated": "PG-13",
-        "Released": "10 May 2024",
-        "Runtime": "145 min",
-        "Genre": "Action, Adventure, Drama",
-        "Director": "Wes Ball",
-        "Writer": "Josh Friedman, Rick Jaffa, Amanda Silver",
-        "Actors": "Owen Teague, Freya Allan, Kevin Durand",
-        "Plot": "Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.",
-        "Language": "English",
-        "Country": "United States, Australia",
-        "Awards": "2 nominations",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BZGI4NTEwNTAtZDcwMi00MDkxLTg1OGYtNTZmMzE3ZDljNzVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
-        "Ratings": [
-            {
-                "Source": "Internet Movie Database",
-                "Value": "7.1/10"
-            },
-            {
-                "Source": "Rotten Tomatoes",
-                "Value": "80%"
-            }
-        ],
-        "Metascore": "N/A",
-        "imdbRating": "7.1",
-        "imdbVotes": "64,328",
-        "imdbID": "tt11389872",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "$169,964,897",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-    },
-        {
-    "Title": "Bad Boys: Ride or Die",
-    "Year": "2024",
-    "Rated": "R",
-    "Released": "07 Jun 2024",
-    "Runtime": "115 min",
-    "Genre": "Action, Adventure, Comedy",
-    "Director": "Adil El Arbi, Bilall Fallah",
-    "Writer": "Chris Bremner, Will Beall, George Gallo",
-    "Actors": "Will Smith, Martin Lawrence, Vanessa Hudgens",
-    "Plot": "This Summer, the world's favorite Bad Boys are back with their iconic mix of edge-of-your seat action and outrageous comedy but this time with a twist: Miami's finest are now on the run.",
-    "Language": "English",
-    "Country": "United States",
-    "Awards": "1 nomination",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
-    "Ratings": [
-        {
-            "Source": "Internet Movie Database",
-            "Value": "7.0/10"
-        },
-        {
-            "Source": "Rotten Tomatoes",
-            "Value": "64%"
-        }
-    ],
-    "Metascore": "N/A",
-    "imdbRating": "7.0",
-    "imdbVotes": "32,915",
-    "imdbID": "tt4919268",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$189,331,546",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-},
-        {
-    "Title": "Black Panther: Wakanda Forever",
-    "Year": "2022",
-    "Rated": "PG-13",
-    "Released": "11 Nov 2022",
-    "Runtime": "161 min",
-    "Genre": "Action, Adventure, Drama",
-    "Director": "Ryan Coogler",
-    "Writer": "Ryan Coogler, Joe Robert Cole, Stan Lee",
-    "Actors": "Letitia Wright, Lupita Nyong'o, Danai Gurira",
-    "Plot": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
-    "Language": "English, Xhosa, Maya, Spanish, Haitian, French",
-    "Country": "United States",
-    "Awards": "Won 1 Oscar. 50 wins & 172 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
-    "Ratings": [
-        {
-            "Source": "Internet Movie Database",
-            "Value": "6.7/10"
-        },
-        {
-            "Source": "Rotten Tomatoes",
-            "Value": "84%"
-        },
-        {
-            "Source": "Metacritic",
-            "Value": "67/100"
-        }
-    ],
-    "Metascore": "67",
-    "imdbRating": "6.7",
-    "imdbVotes": "310,284",
-    "imdbID": "tt9114286",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$453,829,060",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-},
-        {
+    {
         "Title": "Spider-Man",
         "Year": "2002",
         "Rated": "PG-13",
@@ -147,6 +35,358 @@
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "$407,774,549",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Spider-Man 2",
+        "Year": "2004",
+        "Rated": "PG-13",
+        "Released": "30 Jun 2004",
+        "Runtime": "127 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Sam Raimi",
+        "Writer": "Stan Lee, Steve Ditko, Alfred Gough",
+        "Actors": "Tobey Maguire, Kirsten Dunst, Alfred Molina",
+        "Plot": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+        "Language": "English, Russian, Chinese",
+        "Country": "United States",
+        "Awards": "Won 1 Oscar. 25 wins & 60 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "83/100"
+            }
+        ],
+        "Metascore": "83",
+        "imdbRating": "7.5",
+        "imdbVotes": "719,067",
+        "imdbID": "tt0316654",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$374,337,514",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Spider-Man 3",
+        "Year": "2007",
+        "Rated": "PG-13",
+        "Released": "04 May 2007",
+        "Runtime": "139 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Sam Raimi",
+        "Writer": "Sam Raimi, Ivan Raimi, Alvin Sargent",
+        "Actors": "Tobey Maguire, Kirsten Dunst, Topher Grace",
+        "Plot": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+        "Language": "English, French",
+        "Country": "United States",
+        "Awards": "Nominated for 1 BAFTA Award4 wins & 44 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "63%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "59/100"
+            }
+        ],
+        "Metascore": "59",
+        "imdbRating": "6.3",
+        "imdbVotes": "646,237",
+        "imdbID": "tt0413300",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$337,281,992",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Amazing Spider-Man",
+        "Year": "2012",
+        "Rated": "PG-13",
+        "Released": "03 Jul 2012",
+        "Runtime": "136 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Marc Webb",
+        "Writer": "James Vanderbilt, Alvin Sargent, Steve Kloves",
+        "Actors": "Andrew Garfield, Emma Stone, Rhys Ifans",
+        "Plot": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "2 wins & 33 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "71%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "66/100"
+            }
+        ],
+        "Metascore": "66",
+        "imdbRating": "6.9",
+        "imdbVotes": "707,877",
+        "imdbID": "tt0948470",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$262,782,352",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Amazing Spider-Man 2",
+        "Year": "2014",
+        "Rated": "PG-13",
+        "Released": "02 May 2014",
+        "Runtime": "142 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Marc Webb",
+        "Writer": "Alex Kurtzman, Roberto Orci, Jeff Pinkner",
+        "Actors": "Andrew Garfield, Emma Stone, Jamie Foxx",
+        "Plot": "When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "4 wins & 30 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "51%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "53/100"
+            }
+        ],
+        "Metascore": "53",
+        "imdbRating": "6.6",
+        "imdbVotes": "543,274",
+        "imdbID": "tt1872181",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$203,605,622",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Spider-Man: Homecoming",
+        "Year": "2017",
+        "Rated": "PG-13",
+        "Released": "07 Jul 2017",
+        "Runtime": "133 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Jon Watts",
+        "Writer": "Jonathan Goldstein, John Francis Daley, Jon Watts",
+        "Actors": "Tom Holland, Michael Keaton, Robert Downey Jr.",
+        "Plot": "Peter Parker tries to stop Adrian 'The Vulture' Toomes from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student.",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "8 wins & 10 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "73/100"
+            }
+        ],
+        "Metascore": "73",
+        "imdbRating": "7.4",
+        "imdbVotes": "729,457",
+        "imdbID": "tt2250912",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$334,952,829",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Spider-Man: Far from Home",
+        "Year": "2019",
+        "Rated": "PG-13",
+        "Released": "02 Jul 2019",
+        "Runtime": "129 min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Jon Watts",
+        "Writer": "Chris McKenna, Erik Sommers, Stan Lee",
+        "Actors": "Tom Holland, Samuel L. Jackson, Jake Gyllenhaal",
+        "Plot": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+        "Language": "English, Italian, Czech",
+        "Country": "United States, Czech Republic, Australia, Canada, Italy",
+        "Awards": "11 wins & 26 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODA5MTY0OWUtNjdlOC00NDI5LWE3NjYtNDM4MDI2MzE4OWUxXkEyXkFqcGdeQXVyOTAzODkzMjI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "69/100"
+            }
+        ],
+        "Metascore": "69",
+        "imdbRating": "7.4",
+        "imdbVotes": "564,966",
+        "imdbID": "tt6320628",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$391,283,774",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Kingdom of the Planet of the Apes",
+        "Year": "2024",
+        "Rated": "PG-13",
+        "Released": "10 May 2024",
+        "Runtime": "145 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "Wes Ball",
+        "Writer": "Josh Friedman, Rick Jaffa, Amanda Silver",
+        "Actors": "Owen Teague, Freya Allan, Kevin Durand",
+        "Plot": "Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.",
+        "Language": "English",
+        "Country": "United States, Australia",
+        "Awards": "2 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGI4NTEwNTAtZDcwMi00MDkxLTg1OGYtNTZmMzE3ZDljNzVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "80%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "7.1",
+        "imdbVotes": "64,328",
+        "imdbID": "tt11389872",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$169,964,897",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Bad Boys: Ride or Die",
+        "Year": "2024",
+        "Rated": "R",
+        "Released": "07 Jun 2024",
+        "Runtime": "115 min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Adil El Arbi, Bilall Fallah",
+        "Writer": "Chris Bremner, Will Beall, George Gallo",
+        "Actors": "Will Smith, Martin Lawrence, Vanessa Hudgens",
+        "Plot": "This Summer, the world's favorite Bad Boys are back with their iconic mix of edge-of-your seat action and outrageous comedy but this time with a twist: Miami's finest are now on the run.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "64%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "7.0",
+        "imdbVotes": "32,915",
+        "imdbID": "tt4919268",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$189,331,546",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Black Panther: Wakanda Forever",
+        "Year": "2022",
+        "Rated": "PG-13",
+        "Released": "11 Nov 2022",
+        "Runtime": "161 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "Ryan Coogler",
+        "Writer": "Ryan Coogler, Joe Robert Cole, Stan Lee",
+        "Actors": "Letitia Wright, Lupita Nyong'o, Danai Gurira",
+        "Plot": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+        "Language": "English, Xhosa, Maya, Spanish, Haitian, French",
+        "Country": "United States",
+        "Awards": "Won 1 Oscar. 50 wins & 172 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "84%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "67/100"
+            }
+        ],
+        "Metascore": "67",
+        "imdbRating": "6.7",
+        "imdbVotes": "310,284",
+        "imdbID": "tt9114286",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$453,829,060",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
