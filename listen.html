@@ -10,19 +10,15 @@
 <body>
     <h1>Listen</h1>
     <script>
-        // Listen for messages in the iframe
-        window.addEventListener("message", (event) => {
-            // Verify the origin for security
-            if (event.origin !== "http://127.0.0.1:5500") {
-                return;
-            }
-            console.log("Message received from parent:", event.data);
-            // Handle the received message
-            document.querySelector("h1").textContent = event.data;
+      // In the new window (https://example.com)
+window.addEventListener("message", (event) => {
+  // Verify origin
+  console.log("Message received from parent:", event.data);
 
-            // Optionally send a message back to the parent
-            event.source.postMessage("Hello from iframe!", event.origin);
-        });
+  // Send a message back to the parent
+  event.source.postMessage("Hello back from new window!", event.origin);
+});
+
     </script>
 </body>
 
