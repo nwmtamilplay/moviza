@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Send Email</title>
+</head>
+
+<body>
+    <h1>Send Email</h1>
+    <form id="email-form">
+        <input type="text" id="name" placeholder="Your Name" required>
+        <input type="email" id="email" placeholder="Your Email" required>
+        <textarea id="message" placeholder="Your Message" required></textarea>
+        <button type="submit">Send Email</button>
+    </form>
+
+    <script>
+        document.getElementById('email-form').addEventListener('submit', function (event) {
+            event.preventDefault(); // Prevent the default form submission
+
+            // Get form values
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const message = document.getElementById('message').value;
+
+            // Create email body (HTML formatted)
+            const emailBody = `
+                <h1>Message from ${name}</h1>
+                <p>Email: ${email}</p>
+                <p>Message:</p>
+                <p>${message}</p>
+            `;
+
+            // Replace with your own email service API URL
+            const apiUrl = 'YOUR_API_ENDPOINT'; // Replace this with your API endpoint
+
+            const xhr = new XMLHttpRequest();
+            xhr.open('POST', apiUrl, true);
+            xhr.setRequestHeader('Content-Type', 'application/json'); // Depending on API requirements
+
+            // Define the request payload
+            const payload = {
+                to: 'recipient@example.com', // Change to the actual recipient's email
+                subject: 'New Message from Contact Form',
+                body: emailBody
+            };
+
+            // Handle response
+            xhr.onload = function () {
+                if (xhr.status === 200) {
+                    alert('Email sent successfully!');
+                } else {
+                    alert('Failed to send email. Please try again.');
+                }
+            };
+
+            // Send the request
+            xhr.send(JSON.stringify(payload));
+        });
+    </script>
+</body>
+
+</html>
